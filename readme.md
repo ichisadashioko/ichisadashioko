@@ -14,7 +14,7 @@ I just have obtained a Google Pixel 4a which cannot connect to Wi-Fi even though
 
 # Visual novel projects
 
-I don't have "umlimited" free time and my own room (I moved out.) to go through each sentences to write summary and paraphrase them anymore.
+I don't have "unlimited" free time and my own room (I moved out.) to go through each sentences to write summary and paraphrase them anymore.
 
 ## Project ideas
 
