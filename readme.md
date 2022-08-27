@@ -14,7 +14,7 @@ I don't have "unlimited" free time and my own room (I moved out.) to go through 
 
 ## Project ideas
 
-- Rewrite all the assets extraction tools to show preview and allow to extract only the selected assets instead of mindlessly extrating all of them.
+- Rewrite all the assets extraction tools to show preview and allow to extract only the selected assets instead of mindlessly extracting all of them.
 
 # PS Vita
 
